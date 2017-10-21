@@ -1,4 +1,4 @@
-# pipeduce
+# pipeduce [![Build Status](https://travis-ci.org/sbachinin/pipeduce.svg?branch=master)](https://travis-ci.org/sbachinin/pipeduce)
 
 > Constrained and break-able "reduce" for function composition.
 
