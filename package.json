@@ -1,0 +1,26 @@
+{
+  "name": "pipeduce",
+  "version": "0.1.0",
+  "description": "Constrained and break-able \"reduce\" for function composition",
+  "main": "lib/pipe.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbachinin/pipeduce.git"
+  },
+  "author": "Sergey Bachinin <sbachinin@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbachinin/pipeduce/issues"
+  },
+  "homepage": "https://github.com/sbachinin/pipeduce#readme",
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.intersection": "^4.4.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
