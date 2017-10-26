@@ -1,6 +1,6 @@
 {
   "name": "pipeduce",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Constrained and break-able \"reduce\" for function composition",
   "main": "lib/pipe.js",
   "scripts": {
