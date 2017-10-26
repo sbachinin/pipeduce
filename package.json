@@ -4,7 +4,8 @@
   "description": "Constrained and break-able \"reduce\" for function composition",
   "main": "lib/pipe.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "babel src -d lib"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,8 @@
     "lodash.intersection": "^4.4.0"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
     "jest": "^21.2.1"
   }
 }
